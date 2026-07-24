@@ -195,7 +195,7 @@ function HeroVisual() {
         <SignMock className="absolute left-[6%] top-1/2 -translate-y-[62%] rotate-[-4deg] lg:left-[10%]" />
         <KitBox className="absolute bottom-12 left-[16%] -rotate-2 lg:left-[22%] lg:bottom-14" />
         <ReviewCard className="absolute left-1/2 top-1/2 z-10 -translate-x-[55%] -translate-y-1/2 -rotate-2" />
-        <StickerMock className="absolute right-[26%] top-10 z-20 rotate-6 lg:right-[30%]" />
+        <StickerMock className="absolute right-[31%] top-8 z-20 rotate-6 lg:right-[30%] lg:top-10" />
         <PhoneMock className="absolute right-[4%] top-14 rotate-2 lg:right-[9%]" />
       </div>
 
